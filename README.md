@@ -6,4 +6,4 @@ esercizio di prima costruzione di un repository remoto
 
 
 * primo item
-*secondo itemsnake
+* secondo item
